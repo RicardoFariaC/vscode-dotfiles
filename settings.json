@@ -1,0 +1,15 @@
+{
+  "workbench.iconTheme": "symbols",
+  "symbols.hidesExplorerArrows": false,
+  "editor.fontFamily": "Monaspace Argon Var",
+  "editor.rulers": [80, 120],
+  "editor.lineHeight": 1.4,
+  "workbench.editor.labelFormat": "short",
+  "window.zoomLevel": 3,
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "workbench.layoutControl.enabled": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.colorTheme": "Min Dark",
+  "liveServer.settings.donotShowInfoMsg": true,
+}
